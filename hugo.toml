@@ -1,0 +1,23 @@
+baseURL = '/'
+languageCode = 'da-dk'
+title = 'Familien Sommer'
+theme = 'ananke'
+
+[params]
+  description = 'Et privat sted for familien Sommer'
+  favicon = ""
+  site_logo = ""
+  background_color_class = "bg-light-gray"
+  # Choose a color theme, one of:
+  #   - blue
+  #   - celeste
+  #   - gray
+  #   - green
+  #   - orange
+  #   - pink
+  #   - purple
+  #   - red
+  #   - white
+  #   - yellow
+  featured_image = "/images/background.jpg"
+  recent_posts_number = 5
